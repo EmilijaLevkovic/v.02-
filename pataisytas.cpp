@@ -1,4 +1,4 @@
-#include "my_lib.h"
+#include "naujas.h"
 
 double skaiciuoti_galutini(const vector<int>& nd, int egz) {
     double suma = 0;
